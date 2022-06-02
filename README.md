@@ -10,8 +10,11 @@
 aswar-client-array-data
 
 •	The data behind the app is an array in a module named fakeProductService.
+
 •	The app is complete for add new product and delete the row from UI, but not edit.
+
 •	The app is complete for generating QR code that holds product’s details.
+
 •	Hiding elements based on user not implemented because we can implement authentication and authorization only if our app connected to the backend that talks to database to get responses and token and so on.
 
 
